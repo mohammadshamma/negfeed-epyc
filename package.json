@@ -27,7 +27,7 @@
         "@types/paper": "^0.9.9",
         "@types/request": "^2.0.8",
         "ajv": "^5.5.1",
-        "angular": "^1.6.7",
+        "angular": "^1.8.0",
         "angularfire2": "^4.0.0-rc0",
         "cordova-android": "^7.0.0",
         "cordova-ios": "^4.5.4",
